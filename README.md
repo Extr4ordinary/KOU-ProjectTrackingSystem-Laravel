@@ -3,7 +3,7 @@
 This app made for a school project.
 
 <div class="row">
-  <img src="images/Screenshot_3.png" width="200"/>
+  <img src="images/Screenshot_3.png" width="300"/>
     <img src="images/Screenshot_1.png" width="500"/>
 </div>
 <div class="row">
