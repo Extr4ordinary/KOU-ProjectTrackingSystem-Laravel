@@ -15,7 +15,7 @@ This app made for a school project.
 </div>
 <div class="row">
    <img src="images/Screenshot_5.png" width="500"/>
-  <img src="images/Screenshot_4.png" width="500"/>
+  <img src="images/Screenshot_4.png" width="450"/>
 </div>
 
 ## What is the KOU Basvuru Sistemi? What can you do in it?
