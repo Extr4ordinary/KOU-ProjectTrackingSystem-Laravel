@@ -25,7 +25,7 @@ This app made for a school project. Currently working on web try it! -> http://o
 **You can:**
  - If you're a student at there, you can create a new project idea and you can follow the thesis steps.
  - If you're a teacher at there, you can see your students and approve their projects.
- - If you're admin , you can see all users and create a new one. Admin can also you can change the active period.
+ - If you're admin , you can see all users and create a new one. Admin can also you can change the active term.
 
 ## Platform Support
 
