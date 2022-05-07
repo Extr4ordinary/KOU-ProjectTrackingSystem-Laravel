@@ -30,7 +30,7 @@ This app made for a school project.
 ## Platform Support
 
 **Platforms supported:**
- - Works fine in Web. Currently working on web try it! ->> http://odev-traking.herokuapp.com/
+ - Currently working on web try it! ->> http://odev-traking.herokuapp.com/
 
 ## The Database Platform
 
