@@ -10,8 +10,8 @@ This app made for a school project.
   <img src="images/Screenshot_2.png" width="500"/>
 </div>
 <div class="row">
-   <img src="images/Screenshot_6.png" width="400"/>
-  <img src="images/Screenshot_7.png" width="500"/>
+   <img src="images/Screenshot_6.png" width="500"/>
+  <img src="images/Screenshot_7.png" width="450"/>
 </div>
 <div class="row">
    <img src="images/Screenshot_5.png" width="500"/>
