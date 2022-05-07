@@ -1,14 +1,21 @@
-# KOÜ Başvuru Sistemi - Application System - Made With Laravel
+# KOÜ Proje Takip Sistemi - Project Tracking System - Made With Laravel
 
 This app made for a school project.
 
 <div class="row">
-  <img src="images/Screenshot_1.png" width="500"/>
-  <img src="images/Screenshot_2.png" width="200"/>
+  <img src="images/Screenshot_3.png" width="400"/>
 </div>
 <div class="row">
-  <img src="images/Screenshot_3.png" width="350"/>
-  <img src="images/Screenshot_4.png" width="400"/>
+   <img src="images/Screenshot_1.png" width="500"/>
+  <img src="images/Screenshot_2.png" width="500"/>
+</div>
+<div class="row">
+   <img src="images/Screenshot_6.png" width="500"/>
+  <img src="images/Screenshot_7.png" width="450"/>
+</div>
+<div class="row">
+   <img src="images/Screenshot_5.png" width="500"/>
+  <img src="images/Screenshot_4.png" width="450"/>
 </div>
 
 ## What is the KOU Basvuru Sistemi? What can you do in it?
