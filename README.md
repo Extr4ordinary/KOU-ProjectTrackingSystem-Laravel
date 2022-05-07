@@ -7,15 +7,15 @@ This app made for a school project.
 </div>
 <div class="row">
    <img src="images/Screenshot_1.png" width="500"/>
-  <img src="images/Screenshot_2.png" width="350"/>
+  <img src="images/Screenshot_2.png" width="450"/>
 </div>
 <div class="row">
    <img src="images/Screenshot_6.png" width="400"/>
-  <img src="images/Screenshot_7.png" width="350"/>
+  <img src="images/Screenshot_7.png" width="450"/>
 </div>
 <div class="row">
-   <img src="images/Screenshot_5.png" width="400"/>
-  <img src="images/Screenshot_4.png" width="400"/>
+   <img src="images/Screenshot_5.png" width="500"/>
+  <img src="images/Screenshot_4.png" width="450"/>
 </div>
 
 ## What is the KOU Basvuru Sistemi? What can you do in it?
