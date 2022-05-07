@@ -18,23 +18,23 @@ This app made for a school project. Currently working on web try it! -> http://o
   <img src="images/Screenshot_4.png" width="350"/>
 </div>
 
-## What is the KOU Basvuru Sistemi? What can you do in it?
+## What is the KOU Proje Takip Sistemi? What can you do in it?
 
-**KOU is the abbreviation of Kocaeli University. It's a University at Turkey, Kocaeli. The app is made for collecting the applications made by students in KOU.**
+**KOU is the abbreviation of Kocaeli University. It's a University at Turkey, Kocaeli. The app is made for the project tracking made by students in KOU.**
 
 **You can:**
- - If you're a student at there, you can create a personal account for make a application.
- - You can upload the required files for certain application type (Transcript etc.)
- - You can track the application made by yourself.
- - If you're an admin (It can be a teacher, worker at the University etc.) You can filter and list the applications of all application types, track them and accept or reject the applications made by students.
+ - If you're a student at there, you can create a new project idea and you can follow the thesis steps.
+ - If you're a teacher at there, you can see your students and approve their projects.
+ - If you're admin , you can see all users and create a new one. Admin can also you can change the active period.
 
 ## Platform Support
 
 **Platforms supported:**
- - Works fine in Web (currently only local)
+ - Works fine in Web 
 
 ## The Database Platform
 
-  - In the database part, we decided that it would be logical to use Firebase, as we wanted a cloud-based database and supported NoSQL structure
-  - The application's database is in a Firebase server
+  - In the database part, we decided it would make sense to use the relational database MySQL
 
+## Mail Usage
+  - For this we used email sandbox service MailTrap
