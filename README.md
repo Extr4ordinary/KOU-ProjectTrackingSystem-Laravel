@@ -1,7 +1,7 @@
 # KOÜ Proje Takip Sistemi - Project Tracking System - Made With Laravel
 
-This app made for a school project.
-Currently working on web try it!
+-This app made for a school project.
+-Currently working on web try it!
 http://odev-traking.herokuapp.com/
 
 <div class="row">
