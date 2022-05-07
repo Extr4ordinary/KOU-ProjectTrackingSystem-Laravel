@@ -1,6 +1,6 @@
 # KOÜ Proje Takip Sistemi - Project Tracking System - Made With Laravel
 
-This app made for a school project. Currently working on web try it! -> http://odev-traking.herokuapp.com/
+This app made for a school project.
 
 <div class="row">
   <img src="images/Screenshot_3.png" width="300"/>
@@ -30,7 +30,7 @@ This app made for a school project. Currently working on web try it! -> http://o
 ## Platform Support
 
 **Platforms supported:**
- - Works fine in Web 
+ - Works fine in Web. Currently working on web try it! ->> http://odev-traking.herokuapp.com/
 
 ## The Database Platform
 
